@@ -21,6 +21,11 @@ Matplotlib & Seaborn for data visualization
 Sklearn for model building
 Jupyter notebook, visual studio code and pycharm as IDE
 
+### Results: ###
+
+
+
+
 ### Future modifications: ###
 
 Use Python Flask to make a working http/css web page which will be able to classify the images.
