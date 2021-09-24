@@ -5,12 +5,11 @@ This repository holds the following portfolio projects which showcase my
 data science skillset:
 
 * Manhattan Gym Location
+* Abalone Regression Age Prediction
 
 
 Projects coming soon:
 
-> * Abalone Regression Project
-> 
 > * Bangalore Real Estate Price Prediction
 > 
 > * Cotton Plant Disease Identification
