@@ -1,1 +1,4 @@
-## Cotton-Disease-Prediction-Deep-Learning
+### Cotton Plant Disease Prediction - Dee Learning ###
+
+
+`Readme coming soon`
