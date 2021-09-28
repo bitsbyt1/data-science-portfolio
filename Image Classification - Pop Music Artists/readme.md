@@ -21,7 +21,6 @@ Matplotlib & Seaborn for data visualization
 Sklearn for model building
 Jupyter notebook, visual studio code and pycharm as IDE
 
-### Results: ###
 
 
 
