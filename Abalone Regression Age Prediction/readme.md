@@ -11,7 +11,7 @@ Link: http://archive.ics.uci.edu/ml/datasets/Abalone
 8 attributes
 4177 instances
 
-Sex: nominal - M (male), F (female), I (infant)
+`Sex`: nominal - M (male), F (female), I (infant)
 
 `Length`: continuous - longest shell measurement (in mm)
 
