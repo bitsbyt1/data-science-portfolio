@@ -9,11 +9,11 @@ I wanted to analyze the news headlines from the years 2008 to 2016 and see what 
 
 
 ### Tools and techniques used
-•	Pandas
-•	Scikit-Learn
-•	CountVectorizer
-•	RandomForestClassifier
-•	BagOfWords
+`Pandas`
+`Scikit-Learn`
+`CountVectorizer`
+`RandomForestClassifier`
+`BagOfWords`
 
 ### Data
 The dataset I used was one from Kaggle that contains stock prices from August 2008 to June 2016. This data set contains the following columns:
