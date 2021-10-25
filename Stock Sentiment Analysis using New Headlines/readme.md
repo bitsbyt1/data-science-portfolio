@@ -49,7 +49,7 @@ I then used scikit learn's random forest classifier to train the data set.
 When implemented on the testing set the model  able to predict the headlines to an accuracy of 81%
  
 
-
+<img src="images/3.png" alt="" width="400"/>
 
 
 ### Conclusion
